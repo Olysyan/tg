@@ -1,6 +1,6 @@
-#Дополнение (https://github.com/Ajaxy/telegram-tt)[веб-версии телеграм]
+# Дополнение (https://github.com/Ajaxy/telegram-tt)[веб-версии телеграм]
 
-#Установка
+# Установка
 
 `sudo apt install curl`
 
@@ -21,7 +21,7 @@ Python библиотеки необходимые для работы:
 
 `pip install mysql-connector-python`
 
-#Функции
+# Функции
 
-|:----:|:-----:|
+
 |`python3 addContact.py`|синхронизация контактов из базы данных| 
