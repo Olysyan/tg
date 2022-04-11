@@ -1,5 +1,5 @@
 # Дополнение 
-(https://github.com/Ajaxy/telegram-tt)[веб-версии телеграм]
+[веб-версии телеграм](https://github.com/Ajaxy/telegram-tt)
 
 # Установка
 
