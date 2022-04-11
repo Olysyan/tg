@@ -1,0 +1,10 @@
+**Telegram Web Z was updated to version 1.39**
+
+🤩 **Better**
+• New animations for QR code on login screen.
+• Toggle Attach Menu with keyboard or screen reader.
+• Another update for Persian font.
+• Various UX improvements.
+
+💪 **Stronger**
+• Fixed media sometimes being not loaded.
